@@ -1,4 +1,4 @@
-intro_android_demo1
+intro_android_demo12
 ==================
 
 Demo of app exercises for Intro to Android App Development
